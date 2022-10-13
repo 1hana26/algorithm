@@ -1,2 +1,2 @@
 # algorithm
-algorithm study
+programmers algorithm study
