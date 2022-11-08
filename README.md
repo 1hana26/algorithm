@@ -1,3 +1,3 @@
 ## 📔 algorithm
-programmers algorithm study
+programmers algorithm study,
 You can see the details on my blog.
