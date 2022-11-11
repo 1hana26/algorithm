@@ -6,7 +6,3 @@ function solution(my_string) {
     }).sort((x,y)=>{return x-y})
     return ascii.map((ele)=>{return String.fromCodePoint(ele)}).join("")    
 }
-
-const my_string = "Bcad"
-
-console.log(solution(my_string))
